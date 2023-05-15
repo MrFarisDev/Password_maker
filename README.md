@@ -1,2 +1,3 @@
-# Password_maker
-This is a Password maker
+# Password_Generator
+This is a Password Generator
+Make yourself the strongest password !
